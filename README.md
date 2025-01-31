@@ -7,6 +7,8 @@
 
 Purpose:
 - Identify top 5 brands by sales among users that have had their account for at least six months
+  - ![Alt text](Images/Images/Question1.png)
+
 - Identify the top 5 brands by receipts scanned among users 21 and over
 - What percent has Fetch grown year over year?
 
