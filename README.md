@@ -7,11 +7,14 @@
 
 Purpose:
 - Identify top 5 brands by sales among users that have had their account for at least six months
-  - ![Alt text](Images/Images/Question1.png)
+<img src="Images/Question1.png" alt="Alt text" width="250" height="100">
 
 - Identify the top 5 brands by receipts scanned among users 21 and over
-- What percent has Fetch grown year over year?
+<img src="Images/Question2.png" alt="Alt text" width="200" height="100">
 
+- What percent has Fetch grown year over year?
+  - For full analysis please review Data Viz
+<img src="Images/Question3.png" alt="Alt text" width="200" height="100">
 
 
 ## Project Components
