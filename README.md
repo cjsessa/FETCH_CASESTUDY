@@ -2,13 +2,13 @@
 
 <img align="left" src="Images/FETCH_LOGO.png" width="150">
 
-# Fetch Case Study
-*Prepared by Candice Sessa-Filar*
+# Fetch Case Study | *Candice Sessa-Filar*
 
-Purpose:To review Fetch data showcasing ability for:
+Purpose review Fetch data showcasing ability for:
 - Data Cleaning
 - Data Analysis
 - Ability to utilize multiple technical suite
+- Communication
 
 ## Deliverable Part 1 | Data Analysis
 - Identify top 5 brands by sales among users that have had their account for at least six months
